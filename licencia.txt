@@ -1,1 +1,1 @@
-Licencia MIT
+GPL v2
